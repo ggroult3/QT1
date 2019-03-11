@@ -31,7 +31,7 @@
     <property name="text">
      <string>Ceci est un test !
 Répondez 5 sur 5 
-à la réception</string>
+à la réception !</string>
     </property>
    </widget>
   </widget>
